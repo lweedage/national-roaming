@@ -1,0 +1,6 @@
+*.png
+*.ods
+.idea
+venv
+__pycache__
+
