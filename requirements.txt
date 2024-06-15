@@ -1,0 +1,10 @@
+setuptools~=57.0.0
+matplotlib
+numpy
+networkx
+cycler
+shapely
+descartes
+seaborn
+progressbar2
+svgpath2mpl
